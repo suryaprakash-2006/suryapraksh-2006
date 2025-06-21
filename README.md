@@ -4,7 +4,8 @@
  Building: PostBox – Unified Mail Viewer | RoamMates Travel Planner  
  Currently Learning: Python, C++, Git, MERN Stack  
  Goal: Become industry-ready by 2026 with strong project portfolio  
- Contact: [LinkedIn](#) | [Email](#)
+ Contact:[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-prakash-s-4b0159321/)  [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:suryaprakash9320@gmail.com)
+
 
 ---
 
